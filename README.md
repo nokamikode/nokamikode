@@ -18,4 +18,4 @@
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=nokamikode&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="center" alt="cat" height="150" src="https://media1.tenor.com/m/YaCjau306ZYAAAAd/jgmm-cat-meme.gif" />
+<img alt="cat" height="150" src="https://media1.tenor.com/m/YaCjau306ZYAAAAd/jgmm-cat-meme.gif" />

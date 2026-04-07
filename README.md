@@ -15,7 +15,7 @@
 ### Most Used Languages and Tools
 
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
-![C\+\+](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=cplusplus&logoColor=ffffff)
+![Cpp](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=cplusplus&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)

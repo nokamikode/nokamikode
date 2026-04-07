@@ -16,6 +16,4 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=nokamikode&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 <img alt="cat" height="150" src="https://media1.tenor.com/m/YaCjau306ZYAAAAd/jgmm-cat-meme.gif" />

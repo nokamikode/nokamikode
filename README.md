@@ -1,1 +1,21 @@
-Me likey coding games
+# I'm Lucca - aka kamikode
+
+<img align="right" alt="cat" height="150" src="https://tenor.com/view/jgmm-cat-meme-ragebait-cat-think-cat-ponder-gif-7034802297606826390" />
+
+## I'm a Computer Science Student
+
+- My main focus is developing some cool games and improving my personal game engine.
+- Currently studying so that I can get a CS degree and hopefully a j*b.
+- 
+
+### Most Used Languages and Tools
+
+![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
+![C++](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c++&logoColor=ffffff)
+![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=nokamikode&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

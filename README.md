@@ -5,6 +5,7 @@
 - My main focus is developing some cool games and improving my personal game engine.
 - Currently studying so that I can get a CS degree and hopefully a j*b.
 - Valve please hire me my mom is kinda homeless
+- Favorite artist: gof4ckinternet
 
 ### Most Used Languages and Tools
 

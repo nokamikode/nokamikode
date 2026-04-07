@@ -1,6 +1,6 @@
 # I'm Lucca - aka kamikode
 
-<img align="right" alt="cat" height="150" src="https://tenor.com/view/jgmm-cat-meme-ragebait-cat-think-cat-ponder-gif-7034802297606826390" />
+<img align="right" alt="cat" height="150" src="https://media1.tenor.com/m/YaCjau306ZYAAAAd/jgmm-cat-meme.gif" />
 
 ## I'm a Computer Science Student
 
@@ -11,7 +11,7 @@
 ### Most Used Languages and Tools
 
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
-![C++](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c++&logoColor=ffffff)
+![C++](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=cpp&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)

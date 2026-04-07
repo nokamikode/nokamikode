@@ -1,11 +1,5 @@
 # I'm Lucca - aka kamikode
 
----
-
-<img align="right" alt="cat" height="150" src="https://media1.tenor.com/m/YaCjau306ZYAAAAd/jgmm-cat-meme.gif" />
-
----
-
 ## I'm a Computer Science Student
 
 - My main focus is developing some cool games and improving my personal game engine.
@@ -23,3 +17,5 @@
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=nokamikode&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align="center" alt="cat" height="150" src="https://media1.tenor.com/m/YaCjau306ZYAAAAd/jgmm-cat-meme.gif" />

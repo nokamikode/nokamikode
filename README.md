@@ -1,4 +1,4 @@
-# I'm Lucca - aka kamikode
+# I'm Lucca - aka kamicode
 
 ## I'm a Computer Science Student
 
